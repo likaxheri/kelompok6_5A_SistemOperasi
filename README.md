@@ -8,7 +8,6 @@
 **Tahun 2026**
 
 **Dosen Pengampu:** Boby Suryo Prakoso, S.T., M.Kom.
-
 ---
 
 ## 1. Deskripsi Proyek
